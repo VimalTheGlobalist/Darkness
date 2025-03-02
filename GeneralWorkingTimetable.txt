@@ -5,3 +5,5 @@ Weekday
 Weekend
 
 Getting UP at 7am is a primary task.
+
+Done with the changes.
